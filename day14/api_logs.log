@@ -1,0 +1,6 @@
+2025-11-25 12:46:20,947 - INFO - Sending request to URL: https://jsonplaceholder.typicode.com/todos/1
+2025-11-25 12:46:23,339 - INFO - Successfully received JSON response
+2025-11-25 12:46:23,340 - INFO - Sending request to URL: https://wrong-url-00123.com
+2025-11-25 12:46:26,264 - ERROR - Host unreachable / No internet connection
+2025-11-25 12:46:26,265 - INFO - Sending request to URL: https://www.google.com
+2025-11-25 12:46:28,716 - ERROR - Response is not JSON format

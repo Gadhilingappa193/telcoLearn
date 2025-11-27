@@ -1,0 +1,11 @@
+DEBUG:root:This is debug
+INFO:root:program started
+WARNING:root:warning WARNING =======
+ERROR:root:error information
+CRITICAL:root:critical in info
+WARNING:root:warning WARNING =======
+ERROR:root:error information
+CRITICAL:root:critical in info
+WARNING:root:warning WARNING =======
+ERROR:root:error information
+CRITICAL:root:critical in info

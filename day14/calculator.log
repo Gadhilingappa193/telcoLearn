@@ -1,0 +1,30 @@
+2025-11-25 14:57:55,496 - INFO - Calculator called with a=5, b=3, operation=add
+2025-11-25 14:57:55,497 - INFO - Operation successful: Result = 8
+2025-11-25 14:57:55,497 - INFO - Calculator called with a=15, b=5, operation=divide
+2025-11-25 14:57:55,498 - INFO - Operation successful: Result = 3.0
+2025-11-25 14:57:55,499 - INFO - Calculator called with a=10, b=0, operation=divide
+2025-11-25 14:57:55,500 - ERROR - Error occurred: Cannot divide by zero
+2025-11-25 14:57:55,500 - INFO - Calculator called with a=12, b=4, operation=multiply
+2025-11-25 14:57:55,501 - INFO - Operation successful: Result = 48
+2025-11-25 14:57:55,502 - INFO - Calculator called with a=7, b=2, operation=unknown
+2025-11-25 14:57:55,502 - ERROR - Unexpected Error: Invalid operation selected
+2025-11-25 15:09:27,172 - INFO - Calculator called with a=5, b=3, operation=add
+2025-11-25 15:09:27,173 - INFO - Operation successful: Result = 8
+2025-11-25 15:09:27,173 - INFO - Calculator called with a=15, b=5, operation=divide
+2025-11-25 15:09:27,174 - INFO - Operation successful: Result = 3.0
+2025-11-25 15:09:27,174 - INFO - Calculator called with a=10, b=0, operation=divide
+2025-11-25 15:09:27,174 - ERROR - Error occurred: Cannot divide by zero
+2025-11-25 15:09:27,174 - INFO - Calculator called with a=12, b=4, operation=multiply
+2025-11-25 15:09:27,175 - INFO - Operation successful: Result = 48
+2025-11-25 15:09:27,175 - INFO - Calculator called with a=7, b=2, operation=unknown
+2025-11-25 15:09:27,175 - ERROR - Unexpected Error: Invalid operation selected
+2025-11-25 15:09:39,114 - INFO - Calculator called with a=5, b=3, operation=add
+2025-11-25 15:09:39,114 - INFO - Operation successful: Result = 8
+2025-11-25 15:09:39,114 - INFO - Calculator called with a=15, b=5, operation=divide
+2025-11-25 15:09:39,115 - INFO - Operation successful: Result = 3.0
+2025-11-25 15:09:39,115 - INFO - Calculator called with a=10, b=0, operation=divide
+2025-11-25 15:09:39,115 - ERROR - Error occurred: Cannot divide by zero
+2025-11-25 15:09:39,115 - INFO - Calculator called with a=12, b=4, operation=multiply
+2025-11-25 15:09:39,115 - INFO - Operation successful: Result = 48
+2025-11-25 15:09:39,116 - INFO - Calculator called with a=7, b=2, operation=unknown
+2025-11-25 15:09:39,116 - ERROR - Unexpected Error: Invalid operation selected
