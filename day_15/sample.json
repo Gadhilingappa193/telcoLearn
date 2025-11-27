@@ -1,0 +1,11 @@
+{
+  "name": "John Doe",
+  "age": 25,
+  "email": "johndoe@example.com",
+  "isStudent": false,
+  "skills": ["Python", "SQL", "Machine Learning"],
+  "address": {
+    "city": "Bangalore",
+    "country": "India"
+  }
+}
